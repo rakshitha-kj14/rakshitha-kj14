@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Rakshitha 👋
 
-<!--
-**rakshitha-kj14/rakshitha-kj14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with strong experience in SQL, Python, and data visualization.
 
-Here are some ideas to get you started:
+### 🔍 What I Do
+- Product & churn analytics
+- Business-focused dashboards
+- Data storytelling for decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Project
+**Subscription Churn & Retention Analysis**
+- 100K+ users analyzed
+- SQL (BigQuery), Python, Looker Studio
+- Identified key churn drivers and $1M+ revenue impact
+
+📎 Portfolio: https://github.com/rakshitha-kj14/google-data-analyst-project
+
